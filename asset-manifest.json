@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/friends-robot/static/css/main.12517b4e.chunk.css",
+    "main.js": "/friends-robot/static/js/main.5cde8d32.chunk.js",
+    "main.js.map": "/friends-robot/static/js/main.5cde8d32.chunk.js.map",
+    "runtime-main.js": "/friends-robot/static/js/runtime-main.60329848.js",
+    "runtime-main.js.map": "/friends-robot/static/js/runtime-main.60329848.js.map",
+    "static/css/2.31461e4f.chunk.css": "/friends-robot/static/css/2.31461e4f.chunk.css",
+    "static/js/2.dcee0f37.chunk.js": "/friends-robot/static/js/2.dcee0f37.chunk.js",
+    "static/js/2.dcee0f37.chunk.js.map": "/friends-robot/static/js/2.dcee0f37.chunk.js.map",
+    "index.html": "/friends-robot/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/friends-robot/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.12517b4e.chunk.css.map": "/friends-robot/static/css/main.12517b4e.chunk.css.map",
+    "static/js/2.dcee0f37.chunk.js.LICENSE.txt": "/friends-robot/static/js/2.dcee0f37.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/friends-robot/static/media/SuperMario256.72751925.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60329848.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.dcee0f37.chunk.js",
+    "static/css/main.12517b4e.chunk.css",
+    "static/js/main.5cde8d32.chunk.js"
+  ]
+}
